@@ -6,9 +6,12 @@ Software and ML Engineer
 
 I'm passionate about Data, AI solutions and I love using Github to collaborate on projects and share my work with others. I have experience in Software and Data Engineering and I'm always looking for new challenges and opportunities to learn and grow. Feel free to take a look at my repositories and contact me if you have any questions or if you're interested in collaborating on a project. I'm always happy to connect with other developers and learn from their experience. Thanks for visiting my profile!
 
-*   🌍  I'm based in Berlin, Germany
-*   ✉️  You can contact me at [canhtaskin@gmail.com](mailto:canhtaskin@gmail.com)
-*   🧠  I'm learning Artificial Intelligence, Data, Blockchain### Skills 
+* 🌍  I'm based in Berlin, Germany
+* ✉️  You can contact me at [canhtaskin@gmail.com](mailto:canhtaskin@gmail.com)
+* 🧠  I'm learning Artificial Intelligence, Data, Blockchain
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -32,4 +35,3 @@ I'm passionate about Data, AI solutions and I love using Github to collaborate o
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
