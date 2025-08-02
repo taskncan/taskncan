@@ -1,18 +1,20 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Can 
-==================================================================================================================================
+# Hey, I'm Can 👋
 
-Software and ML Engineer
-------------------------
+## Software Engineer & AI Developer
 
-I'm passionate about Data, AI solutions and I love using Github to collaborate on projects and share my work with others. I have experience in Software and Data Engineering and I'm always looking for new challenges and opportunities to learn and grow. 
+Based in Berlin, I build systems that turn data into real-world impact. With a Master’s in Artificial Intelligence and hands-on experience from startups to enterprise projects, I focus on bridging the gap between research and production-ready code.
 
-Feel free to take a look at my repositories and contact me if you have any questions or if you're interested in collaborating on a project. I'm always happy to connect with other developers and learn from their experience. Thanks for visiting my profile!
+My work spans from designing scalable backend APIs to deploying machine learning models that power intelligent applications. I’m comfortable across the entire stack — from data engineering pipelines and web scraping to deep learning with TensorFlow and PyTorch.
 
-* 🌍  I'm based in Berlin, Germany
-* ✉️  You can contact me at [canhtaskin@gmail.com](mailto:canhtaskin@gmail.com)
-* 🧠  I'm learning Artificial Intelligence, Data, Blockchain
+If you’re curious about AI, data workflows, or just want to collaborate on something cool, feel free to reach out!
 
-### Skills
+- 🌍 Berlin-based  
+- 📫 canhtaskin@gmail.com  
+- 📚 Currently exploring prompt injection detection and NLP robustness
+
+---
+
+### Tech Stack & Tools I Use
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
